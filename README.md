@@ -60,9 +60,6 @@ jupyter notebook movie_review.ipynb
 - **movie_review.ipynb:** The Jupyter notebook containing the full analysis, including data preprocessing, feature extraction, model training, and evaluation.
 - **README.md:** Project documentation.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
