@@ -39,7 +39,7 @@ pip install nltk scikit-learn
 You can clone this repository using the following command:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Pragat007/Movie-Reviews-Sentiment-Analysis
 ```
 
 ## Usage
